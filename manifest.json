@@ -8,7 +8,6 @@
 		{
 			"matches": ["*://*/*"],
       "js": ["ZZZjquery-2.1.3.min.js", "content_script.js"],
-      "css": ["ZZZrainbowz.css"],
 			"run_at": "document_end"
 		}
 	]
