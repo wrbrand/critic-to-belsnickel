@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "cyberstyle",
+	"name": "Critic-to-Belsnickel",
 	"version": "0.92",
-	"description": "Adds some flash to the CYBERWAR",
+	"description": "Replaces lies with truths",
 	"content_scripts": 
 	[
 		{
